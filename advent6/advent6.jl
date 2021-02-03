@@ -62,5 +62,3 @@ function count_all(x)
 end
 
 wow2(vcat(data, [""]))
-
-wow2(B)
